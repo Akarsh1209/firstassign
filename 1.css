@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Great Vibes', cursive;
+}
+
+.joc{
+    background-color: white;
+    padding: 60px;
+    height: 50vh;
+}
+
+.joc h2{
+    color: rgb(41,163,159);
+    margin-bottom: 25px;
+    font-size: 40px;
+}
+
+.joc h3{
+    color: rgb(191, 223, 49);
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+
+.joc p{
+    color: grey;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.monthly{
+    background-color: rgb(42, 180, 177);
+    padding: 30px 80px;
+    height: 50vh;
+    width: 50%;
+    float: left;
+    color: hsl(204, 43%, 93%);
+}
+
+.why{
+    background-color: rgb(73, 189, 189);
+    padding: 30px 80px;
+    width: 50%;
+    height: 50vh;
+    float: left;
+    color: hsl(204, 43%, 93%);
+    font-size: ;
+}
+
+span{
+    font-weight: 700; 
+    font-size: 30px; 
+}
+
+button{
+    padding: 20px 100px 20px 100px; 
+  background-color:  hsl(71, 73%, 54%);
+    border : none; 
+    border-radius: 10px; 
+    cursor: pointer; 
+    color:  hsl(204, 43%, 93%);
+    font-size:16px; 
+    font-weight: 700; 
+    margin-top: 60px; 
+}
+button:hover{
+ background-color:hsl(71, 71%, 42%);   
+}
